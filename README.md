@@ -27,7 +27,6 @@
 ### **S.A.L.V.A. - Sistema de Resgate em Enchentes**  
 [![Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github)]([link_do_repositório](https://github.com/Sandron61/Projeto-S.A.L.V.A-NEXT-2024))  
 ✔️ Detecção de pessoas e telhados com **YOLO V5** e **OpenCV**.  
-✔️ Redução de **30% no tempo de resposta** em emergências.
 
 ---
 
