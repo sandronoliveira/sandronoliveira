@@ -2,7 +2,6 @@
 
 **Data Scientist | AI Specialist**  
 📚 Estudante de **Inteligência Artificial** na [FIAP](https://www.fiap.com.br) | 🏆 GPA 4.0 em disciplinas-chave  
-🌍 **Foco:** Transformar dados em soluções com impacto social e financeiro.
 
 ---
 
@@ -33,9 +32,11 @@
 ---
 
 ## 📜 **Certificações**  
-- **FIAP Certified Cognitive Services Specialist** (Código: `43066955`)  
-- **Formação em Power BI** (Alura | 38h)  
-- **Computação Cognitiva Aplicada ao Marketing** (FIAP)
+- **FIAP Certified Cognitive Services Specialist**  
+- **Formação em Power BI**  
+- **Computação Cognitiva Aplicada ao Marketing** 
+- **Formação Social e Sustentabilidade**
+- **Certificado de Qualificação Profissional em Aprendizado de Máquina**
 
 ---
 
@@ -53,5 +54,3 @@
 
 ---
 
-**"A tecnologia só é útil quando resolve problemas reais."**  
-⭐ *Explore meus repositórios e vamos construir algo incrível juntos!*
