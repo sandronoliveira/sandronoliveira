@@ -1,4 +1,4 @@
-## Bem vindo a minha pagina do GitHub!
+## Bem-vindo(a) à minha página do GitHub! 👋
 
 **Data Scientist | AI Specialist**  
 📚 Estudante de **Inteligência Artificial** na [FIAP](https://www.fiap.com.br) | 🏆 Média de 93,3 em disciplinas-chave  
