@@ -25,7 +25,7 @@
 ✔️ *Tecnologias:* Python, Flask, PyPDF.
 
 ### **S.A.L.V.A. - Sistema de Resgate em Enchentes**  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github)](https://github.com/Sandron61/Projeto-S.A.L.V.A-NEXT-2024)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github)](https://github.com/Sandron61/Projeto-S.A.L.V.A-NEXT-2024)  
 ✔️ Detecção de pessoas e telhados com **YOLO V5** e **OpenCV**.  
 
 ---
