@@ -22,7 +22,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github)](https://github.com/NickolasFerraz1/Saturn)  
 ✔️ **1º lugar no Challenge B3 2024**  
 ✔️ Integração de **ChatGPT 4o-Mini** e **ElasticSearch** para análise de 40 mil documentos financeiros.  
-✔️ *Tecnologias:* Python, Flask, PyPDF.
+✔️ *Tecnologias:* Python, Flask, PyPDF, ElasticSearch, ChatGPT-4o mini.
 
 ### **S.A.L.V.A. - Sistema de Resgate em Enchentes**  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repositório-181717?style=flat-square&logo=github)](https://github.com/Sandron61/Projeto-S.A.L.V.A-NEXT-2024)  
