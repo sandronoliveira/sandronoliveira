@@ -40,7 +40,7 @@
 ---
 
 ## 📫 **Conecte-se Comigo**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([link_do_linkedin](https://www.linkedin.com/in/sandronoliveira/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sandronoliveira/))  
 ✉️ **Email:** sandrono61@gmail.com  
 
 ---
