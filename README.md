@@ -46,10 +46,10 @@
 ---
 
 ## 📊 **Estatísticas do GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandron61&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandron61&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandronoliveira&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandronoliveira&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sandron61&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=sandronoliveira&theme=radical)
 
 ---
 
